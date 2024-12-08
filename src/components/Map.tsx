@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from "react";
 import { MapContainer, TileLayer, GeoJSON, Marker, Circle, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import L, { LatLngExpression } from "leaflet";
+import L from "leaflet";
 import { FeatureCollection } from "geojson";
 import plateBoundaryData from "../data/plateBoundaries.json";
 import earthquakesData from "../data/earthquakes.json";
@@ -15,7 +15,7 @@ type MapProps = {
 };
 
 const Map: React.FC<MapProps> = ({ setSelectedFeature }) => {
-  const center: LatLngExpression = [20, 0];
+  //const center: LatLngExpression = [20, 0];
   const mapRef = useRef<L.Map>(null);
 
   const boundaryStyle = (feature: any) => {
