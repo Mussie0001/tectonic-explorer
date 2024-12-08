@@ -1,0 +1,19 @@
+[
+    { "lat": 37.75, "lng": -122.68, "magnitude": 4.5, "depth": 10 },
+    { "lat": 38.89, "lng": -123.23, "magnitude": 5.1, "depth": 12 },
+    { "lat": 35.70, "lng": -121.52, "magnitude": 6.3, "depth": 8 },
+    { "lat": 3.00, "lng": 98.62, "magnitude": 6.1, "depth": 70 },
+    { "lat": 19.19, "lng": -155.48, "magnitude": 4.9, "depth": 10 },
+    { "lat": 40.75, "lng": 142.68, "magnitude": 7.0, "depth": 35 },
+    { "lat": -3.68, "lng": -73.23, "magnitude": 5.5, "depth": 120 },
+    { "lat": -16.50, "lng": -73.13, "magnitude": 6.9, "depth": 60 },
+    { "lat": -38.29, "lng": -73.05, "magnitude": 7.1, "depth": 25 },
+    { "lat": -31.63, "lng": -71.67, "magnitude": 5.8, "depth": 40 },
+    { "lat": 38.22, "lng": 45.70, "magnitude": 5.2, "depth": 15 },
+    { "lat": 51.39, "lng": -3.18, "magnitude": 4.0, "depth": 15 },
+    { "lat": 37.97, "lng": 23.72, "magnitude": 5.3, "depth": 10 },
+    { "lat": 1.61, "lng": 126.45, "magnitude": 5.6, "depth": 50 },
+    { "lat": -20.24, "lng": 169.76, "magnitude": 6.7, "depth": 150 }
+]
+  
+  

@@ -1,0 +1,14 @@
+[
+    { "lat": -15.75, "lng": -70.25, "name": "Misti Volcano", "type": "Stratovolcano" },
+    { "lat": 19.75, "lng": -155.25, "name": "Mauna Loa", "type": "Shield Volcano" },
+    { "lat": -16.50, "lng": -68.15, "name": "Illimani", "type": "Complex Volcano" },
+    { "lat": 13.65, "lng": -89.35, "name": "Izalco", "type": "Stratovolcano" },
+    { "lat": 10.20, "lng": -84.30, "name": "Arenal", "type": "Stratovolcano" },
+    { "lat": 14.50, "lng": 121.20, "name": "Taal", "type": "Caldera" },
+    { "lat": -8.34, "lng": 116.47, "name": "Rinjani", "type": "Stratovolcano" },
+    { "lat": -7.54, "lng": 110.44, "name": "Merapi", "type": "Stratovolcano" },
+    { "lat": 35.20, "lng": 138.73, "name": "Fuji", "type": "Stratovolcano" },
+    { "lat": 60.48, "lng": -152.75, "name": "Redoubt", "type": "Stratovolcano" }
+  ]
+  
+  
